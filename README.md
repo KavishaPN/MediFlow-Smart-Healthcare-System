@@ -181,6 +181,7 @@ These include:
 
 A simplified project structure is:
 
+```text
 MediFlow/
 │
 ├── admin/
